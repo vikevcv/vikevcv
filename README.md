@@ -36,9 +36,8 @@ Yêu thích phần mềm, bảo mật, an toàn thông tin và những bài toá
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikevcv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikevcv&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikevcv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/vikevcv)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikevcv&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/vikevcv)
 ---
 
 ### 📫 Liên hệ
