@@ -29,8 +29,8 @@ Yêu thích phần mềm, bảo mật, an toàn thông tin và những bài toá
 
 | Project | Mô tả | Tech |
 |--------|-------|------|
-| [WQA-WineQualityAnalysis](https://github.com/vikevcv/WQA-WineQualityAnalysis) | Phân tích chất lượng rượu vang | Python |
 | [badminton-manager](https://github.com/vikevcv/badminton-manager) | Quản lý sân cầu lông | Java |
+| [badminton-shop](https://github.com/vikevcv/badminton-shop) | API web bán hàng cầu lông | NodeJS |
 
 ---
 
